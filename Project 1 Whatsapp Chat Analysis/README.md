@@ -1,9 +1,4 @@
-Here’s a professional and complete `README.md` file for your **WhatsApp Chat Analyzer** project, suitable for uploading to GitHub:
-
----
-
-````markdown
-# 📊 WhatsApp Chat Analyzer
+## 📊 WhatsApp Chat Analyzer
 
 An interactive dashboard to analyze WhatsApp chat history using Python and Streamlit. Upload your exported `.txt` chat file and get insights like message frequency, user contribution, emoji usage, word trends, and more!
 
